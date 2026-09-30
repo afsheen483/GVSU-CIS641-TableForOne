@@ -35,7 +35,7 @@ Implementation will then be done in order of business value. The first build wil
 
 | Milestone | Target date | Description |
 |---|---|---|
-| Proposal and repository setup | Sept 27 | Team repository, README, and this proposal |
+| Proposal and repository setup | Sept 30 | Team repository, README, and this proposal |
 | Requirements definition | Oct 11 | Functional and non functional requirements, use cases |
 | Functional and structural models | Oct 25 | Use case, activity, and class diagrams, database schema |
 | Behavioral models and UI design | Nov 1 | Sequence diagrams and screen wireframes |
