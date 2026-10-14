@@ -14,7 +14,7 @@ With this system:
 * The manager gets an alert when an ingredient is running low.
 * The owner can view daily and weekly sales reports.
 
-**Team member:** Afsheen Ghuman
+**Team member:** Afsheen Afsheen
 
 ## Project Documents
 
